@@ -1,0 +1,402 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Popular"
+    },
+    {
+      "id": 2,
+      "nama": "TopRated"
+    },
+    {
+      "id": 3,
+      "nama": "Trending"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Athena",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "athena.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Popular"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Hocus Pocus",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "hocus-pocus.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Popular"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Samaritan",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "samaritan.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Popular"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Pinocchio",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "pinocchio.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Popular"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Good Doctor",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "the-good-doctor.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Popular"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Black Adam",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "black-adam.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Popular"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Terrifier 2",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "terrifier.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Popular"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Titans",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "titans.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Trending"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Maverick",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "maverick.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Trending"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "K-10",
+      "nama": "House of Dragon",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "dragon.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Popular"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "K-11",
+      "nama": "Arcane",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "arcane.jpg",
+      "category": {
+        "id": 2,
+        "nama": "TopRated"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-12",
+      "nama": "One Piece",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "one-piece.jpg",
+      "category": {
+        "id": 2,
+        "nama": "TopRated"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "K-13",
+      "nama": "Breaking Bad",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "breaking-bad.jpg",
+      "category": {
+        "id": 2,
+        "nama": "TopRated"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "K-14",
+      "nama": "Goblin",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "goblin.jpg",
+      "category": {
+        "id": 2,
+        "nama": "TopRated"
+      }
+    },
+    {
+      "id": 15,
+      "kode": "K-15",
+      "nama": "Kimetsu",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "yaiba.jpg",
+      "category": {
+        "id": 2,
+        "nama": "TopRated"
+      }
+    },
+    {
+      "id": 16,
+      "kode": "K-16",
+      "nama": "Smile",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "smile.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Trending"
+      }
+    },
+    {
+      "id": 17,
+      "kode": "K-17",
+      "nama": "Pamali",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "pamali.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Trending"
+      }
+    }
+  ],
+  "keranjangs": [
+    {
+      "jumlah": 2,
+      "total_harga": 70000,
+      "product": {
+        "id": 5,
+        "kode": "K-05",
+        "nama": "Good Doctor",
+        "harga": 35000,
+        "is_ready": true,
+        "gambar": "the-good-doctor.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Popular"
+        }
+      },
+      "id": 1
+    }
+  ],
+  "pesanans": [
+    {
+      "total_bayar": 0,
+      "menus": [],
+      "id": 1
+    },
+    {
+      "total_bayar": 0,
+      "menus": [],
+      "id": 2
+    },
+    {
+      "total_bayar": 60000,
+      "menus": [
+        {
+          "jumlah": 2,
+          "total_harga": 60000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Hocus Pocus 2",
+            "harga": 30000,
+            "is_ready": true,
+            "gambar": "hocus-pocus.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Popular"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "total_bayar": 130000,
+      "menus": [
+        {
+          "jumlah": 2,
+          "total_harga": 60000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Hocus Pocus 2",
+            "harga": 30000,
+            "is_ready": true,
+            "gambar": "hocus-pocus.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Popular"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 35000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Samaritan",
+            "harga": 35000,
+            "is_ready": true,
+            "gambar": "samaritan.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Popular"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 35000,
+          "product": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Athena",
+            "harga": 35000,
+            "is_ready": true,
+            "gambar": "athena.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Popular"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 4
+    },
+    {
+      "total_bayar": 105000,
+      "menus": [
+        {
+          "jumlah": 3,
+          "total_harga": 105000,
+          "product": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Athena",
+            "harga": 35000,
+            "is_ready": true,
+            "gambar": "athena.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Popular"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 5
+    },
+    {
+      "total_bayar": 35000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 35000,
+          "product": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Athena",
+            "harga": 35000,
+            "is_ready": true,
+            "gambar": "athena.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Popular"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 6
+    },
+    {
+      "total_bayar": 210000,
+      "menus": [
+        {
+          "jumlah": 7,
+          "total_harga": 210000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Hocus Pocus",
+            "harga": 30000,
+            "is_ready": true,
+            "gambar": "hocus-pocus.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Popular"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 7
+    }
+  ]
+}

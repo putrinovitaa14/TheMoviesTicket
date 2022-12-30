@@ -1,0 +1,11 @@
+.nav {
+    background-color: lightslategray;
+    height: 70px;
+}
+
+.tm {
+    color: red;
+    text-align: 4px;
+    font: bold;
+    cursor: pointer;
+}
